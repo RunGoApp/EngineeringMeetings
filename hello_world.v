@@ -3,14 +3,11 @@ module main
 // standard libraries
 import os
 
-// third party libraries
-
-// load file, get names, array, file, then generate one for each date
-// create folder
 fn main() {
     if (os.args.len != 2) {
         panic("must pass in base folder argument")
     }
+
     base_dir := os.args[1]
     base_learning_template := os.read_file("./base_learning_template.md") or {
         panic(err)
