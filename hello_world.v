@@ -22,14 +22,17 @@ fn main() {
 
     mut str := ""
     for name in names {
-        str += name.str()
-        if (name == 10) {
-            os.mkdir("./$date/$str") or {
-                panic(err)
-            }
-            os.write_file("./$date/$name/readme.md", base_learning_template)
-            str = ""
+        if (name != 10) {
+            str += name.str()
+            continue
         }
+
+        os.mkdir("./$date/$str") or {
+            panic(err)
+        }
+
+        os.write_file("./$date/$str/readme.md", base_learning_template)
+        str = ""
     }
 
     println(base_learning_template)
