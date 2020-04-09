@@ -2,7 +2,6 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - Modeling Audio inputs with variying sizes of frequency vectors - in Tensorflow
 
 ## What I learned
