@@ -5,18 +5,16 @@ import os
 // load file, get names, array, file, then generate one for each date
 // create folder
 fn main() {
-    date := "09.04.2020"
+    base_dir := "09.04.2020"
     base_learning_template := os.read_file("./base_learning_template.md") or {
-        println(err)
-        return
+        panic(err)
     }
 
     names := os.read_file("./names.txt") or {
-        println(err)
-        return
+        panic(err)
     }
 
-    os.mkdir("./$date") or {
+    os.mkdir("./$base_dir") or {
         panic(err)
     }
 
@@ -27,14 +25,11 @@ fn main() {
             continue
         }
 
-        os.mkdir("./$date/$str") or {
+        os.mkdir("./$base_dir/$str") or {
             panic(err)
         }
 
-        os.write_file("./$date/$str/readme.md", base_learning_template)
+        os.write_file("./$base_dir/$str/Readme.md", base_learning_template)
         str = ""
     }
-
-    println(base_learning_template)
-    println(names)
 }
