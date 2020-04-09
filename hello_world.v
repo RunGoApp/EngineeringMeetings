@@ -32,7 +32,7 @@ fn main() {
             panic(err)
         }
 
-        os.write_file("./$base_dir/$str/Readme.md", base_learning_template)
+        os.write_file("./$base_dir/$str/README.md", base_learning_template)
         str = ""
     }
 }
