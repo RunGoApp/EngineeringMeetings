@@ -6,3 +6,6 @@
  - Topic 2
 
 ## What I learned
+
+## Links/Resources
+- [VLang](https://vlang.io)
