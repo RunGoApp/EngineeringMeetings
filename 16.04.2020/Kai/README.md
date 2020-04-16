@@ -2,10 +2,10 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+* How to extend LLDB and XCode
+    * .lldbinit
+    * XCode template
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
