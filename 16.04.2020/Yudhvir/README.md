@@ -2,8 +2,9 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - Reverse Polish Notation
+ - BIDMAS Logic Handling
+ - Decision Tree's (Mostly generic multilevel trees)
 
 ## What I learned
 
