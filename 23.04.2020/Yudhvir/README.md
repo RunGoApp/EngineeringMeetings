@@ -2,8 +2,8 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - Documentation template for Vlang
+ - Vlang
 
 ## What I learned
 
