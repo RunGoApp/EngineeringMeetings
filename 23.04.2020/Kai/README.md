@@ -2,10 +2,11 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+- Modelling tensorflow model for audio
+    - Ideal layers
+    - Loss Function
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
+
