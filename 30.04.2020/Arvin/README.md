@@ -2,10 +2,15 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - ReactJS
+ - Bit.dev
 
 ## What I learned
 
+ - Compile and start the project beforehand cuz it takes some time
+ - Check framework of each component on bit.dev
+ 
+
 ## Links/Resources
-- [VLang](https://vlang.io)
+- [bit.dev](https://bit.dev)
+- [reactjs](https://reactjs.org)
