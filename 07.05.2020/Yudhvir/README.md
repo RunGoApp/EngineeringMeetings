@@ -1,11 +1,9 @@
 # Learning
 
 ## What I want to learn
-
- - Topic 1
- - Topic 2
+    - COBOL
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
+- [YouTube](https://www.youtube.com/watch?v=TBs7HXI76yU)
