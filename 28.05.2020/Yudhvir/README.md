@@ -2,10 +2,10 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - Declaritive UI for Web
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
+  - [Bon UI Docs](https://teplovs.github.io/bon-ui-docs/View.htm)
+  - [Bon UI](https://github.com/teplovs/bon-ui)
