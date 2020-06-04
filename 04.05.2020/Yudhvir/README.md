@@ -2,10 +2,9 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - Deno
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
+- [Deno](https://deno.land)
