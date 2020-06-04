@@ -2,10 +2,9 @@
 
 ## What I want to learn
 
- - Topic 1
- - Topic 2
+ - CSS
+ - Generating CSS from declarative definition
 
 ## What I learned
 
 ## Links/Resources
-- [VLang](https://vlang.io)
